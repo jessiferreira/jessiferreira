@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecaac1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+aqui+é+a+Jessy!;Seja+muito+bem-vindo(a)!;+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <img height="150px" width="42%" src="https://github-readme-stats.vercel.app/api?username=jessyferrs&show_icons=true&count_private=true&hide_border=true&title_color=ecaac1&icon_color=ca8aa0&text_color=f9edf1&bg_color=0d1117" alt="Yasmin Alves github stats" /> 
+  <img height="150px" width="42%" src="https://github-readme-stats.vercel.app/api?username=jessyferrs&show_icons=true&count_private=true&hide_border=true&title_color=ecaac1&icon_color=ca8aa0&text_color=f9edf1&bg_color=0d1117" alt="jessyferrs stats" /> 
   <img height="150px" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyferrs&layout=compact&hide_border=true&title_color=ecaac1&text_color=f9edf1&bg_color=0d1117" />
   </p>
   </div>
