@@ -8,8 +8,11 @@
  </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jessy-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+<img align="center" alt="Jessy-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Jessy-Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Jessy-Intellij" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 
+ 
   ##
 
   <div> 
