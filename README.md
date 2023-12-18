@@ -4,7 +4,7 @@
 
 <div  align="left" style="margin-bottom:100px">
 <img width=49% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessyferrs&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-<img width=50% align="center" src="https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessyferrs&show_icons=true&theme=radical&layout=compact" />
+<img width=50% align="center" src="https://github-readme-stats-xqlh-git-main-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessyferrs&show_icons=true&theme=radical&layout=compact" />
  </div>
 
 #
