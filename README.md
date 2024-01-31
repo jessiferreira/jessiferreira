@@ -12,6 +12,9 @@
  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
 
 
 
@@ -19,6 +22,8 @@
 
 ![Intellij](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
 
 ## ✨ Contacts:
   <div> 
