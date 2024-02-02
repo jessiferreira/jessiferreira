@@ -8,10 +8,10 @@
 
 &nbsp;
 
-<div align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=jessyferrs&theme=jolly&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-<img height="180em" width="400em" src="https://github-readme-stats-xqlh-git-main-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessyferrs&show_icons=true&theme=jolly&layout=compact"/>
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=46% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessyferrs&theme=jolly&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+<img width=39% align="center" src="https://github-readme-stats-xqlh-git-main-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessyferrs&show_icons=true&theme=jolly&layout=compact" />
+ </div>
 
 &nbsp;
 
