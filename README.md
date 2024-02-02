@@ -14,11 +14,15 @@
 
 &nbsp;
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,"/>
-  </a>
-</p>
+<div align="center">
+    
+[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JAVA](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![VSCODE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+</div>
 
 ##
 
