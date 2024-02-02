@@ -26,8 +26,6 @@
 
 ##
 
-&nbsp;
-
 <div align="center">
 
 ### My Contacts
