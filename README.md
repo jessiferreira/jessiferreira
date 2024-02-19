@@ -31,7 +31,7 @@
 ### My Contacts
 
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/jessyferrs)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessferreirasilva/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessiferreira/)
 [![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:contatojessyferrs@gmail.com)
 
 </div>
