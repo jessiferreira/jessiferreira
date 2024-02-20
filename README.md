@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE06FA&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=25&pause=1000&color=FE66D7&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+aqui+%C3%A9+a+Jessy.+Boas-vindas!%F0%9F%8C%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=23&pause=1000&color=FF79C6&random=false&width=435&lines=Ol%C3%A1%2C+aqui+%C3%A9+a+Jessy.+Boas+vindas!+%E2%AD%90)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center" style="margin-bottom: 100px">
-    <img width="46%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=jolly&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
-    <img width="33%" align="center" src="https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&show_icons=true&theme=jolly&layout=compact" />
+    <img width="46%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=omni&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" />
+    <img width="33%" align="center" src="https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&show_icons=true&theme=omni&layout=compact" />
 </div>
 
 
@@ -37,6 +37,6 @@
 </div>
 
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AE06FA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer"/>
 
 
