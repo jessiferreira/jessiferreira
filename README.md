@@ -12,7 +12,7 @@
 </div>
 
 
-&nbsp;
+#
 
 <div align="center">
     
@@ -23,19 +23,6 @@
 [![VSCODE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 </div>
-
-##
-
-<div align="center">
-
-#### My Contacts
-
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/jessyferrs)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/jessyferreira/)
-[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:contatojessyferrs@gmail.com)
-
-</div>
-
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer"/>
 
