@@ -1,3 +1,4 @@
+<center>
 <img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
@@ -23,5 +24,4 @@
 </div>
   
 <img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer"/>
-
-
+</center>
