@@ -3,7 +3,8 @@
 </div>
 
 <div align="center" style="margin-bottom: 100px">
-    <img width="53%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=modern-lilac2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> <br> <br>
+<img width="15%" align="center" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/c42e232c-cc2c-4c34-b49b-8c283516627c" /> <br> <br>  
+<img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=modern-lilac2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> 
 </div>
 
 #
