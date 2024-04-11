@@ -3,13 +3,14 @@
 </div>
 
 <div align="center" style="margin-bottom: 100px">
-<img width="15%" align="center" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/c42e232c-cc2c-4c34-b49b-8c283516627c" /> <br> <br>  
+<img width="25%" align="center" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/b3d79ec4-00c7-4333-adcb-012d8b291f6f" /> <br>
 <img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=modern-lilac2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> 
 </div>
 
 #
 
 <div align="center">
+
 
 ![Java](https://img.shields.io/badge/java-%23c125ff.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-c125ff?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)&nbsp;
