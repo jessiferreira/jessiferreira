@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" style="margin-bottom: 100px">
-    <img width="46%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=modern-lilac2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> <br> <br>
+    <img width="53%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=modern-lilac2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> <br> <br>
 </div>
 
 #
