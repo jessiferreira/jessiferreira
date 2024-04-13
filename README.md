@@ -4,7 +4,8 @@
 
 <div align="center" style="margin-bottom: 100px">
 <img width="15%" align="center" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/f906847d-7834-4357-a325-3e02d831125b" /> <br>
-<img width="60%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=modern-lilac2&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> 
+<img width="46%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> <br><br>
+<img width="46%" align="center" src="https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&show_icons=true&theme=midnight-purple&layout=compact" />
 
 # 
 
