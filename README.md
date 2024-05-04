@@ -1,26 +1,42 @@
-<div align="center">
-<img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-</div>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/f581193c-2922-4a72-b7fd-6a09b3933bf8"> 
 
-<div align="center" style="margin-bottom: 100px">
-<img width="15%" align="center" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/a3c16ed2-af13-487a-9cc5-8db83366d6e5" /> <br>
-<img width="46%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jessiferreira&theme=omni&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /> <br><br>
-<img width="46%" align="center" src="https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&show_icons=true&theme=omni&layout=compact" />
+<h1>
+    <span>Jéssica Ferreira</span>
+</h1>
 
-#
-
-![Java](https://img.shields.io/badge/java-%23FF79C6.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FF79C6?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)&nbsp;
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF79C6?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![HTML](https://img.shields.io/badge/HTML5-FF79C6?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
-[![CSS](https://img.shields.io/badge/CSS-FF79C6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
+<p align="justify">Hello!👋🏻 <br>
+  I am a Java Back-end developer currently studying Systems Analysis and Development. I am passionate about technology and constantly striving to improve my skills to grow as a professional in the field.
 <br>
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-FF79C6?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23FF79C6.svg?style=for-the-badge&logo=notion&logoColor=white)
-</div>
+  Feel free to explore my projects and get in touch if you'd like to exchange ideas or collaborate on any project! </p>
+<!--
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
+[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+-->
 
-<div align="center">
-<img width=95% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=footer"/>
-</div>
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8700A2&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
+[![E-mail](https://img.shields.io/badge/-E--mail-000?style=for-the-badge&logo=mail.ru&logoColor=8700A2&color:FFF)](mailto:contatojessiferreira@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8700A2&color:FFF)](https://www.instagram.com/jessi_ferreira)
+
+### GitHub Stats
+
+<!-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) -->
+[![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=350&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=8700A2&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)
+
+### My Skills
+
+<p align="left">
+
+![Java](https://img.shields.io/badge/java-%23FF79C6.svg?style=for-the-badge&logo=openjdk&logoColor=8700A2&color=000000)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij%20idea&logoColor=8700A2&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=8700A2&color:FFF)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=8700A2&color:FFF)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=8700A2&color:FFF)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=8700A2&color:FFF) <br>
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=8700A2&color:FFF)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=8700A2&color:FFF)
+
+
+
 
