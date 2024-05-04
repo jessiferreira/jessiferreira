@@ -20,7 +20,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8700A2&color:FFF)](https://www.instagram.com/jessi_ferreira)
 
 ### GitHub Stats
-[![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=350&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=8700A2&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=370&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=171615&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)
 
 ### My Skills
 
