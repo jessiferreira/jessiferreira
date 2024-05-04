@@ -9,8 +9,8 @@
 <br>
   Feel free to explore my projects and get in touch if you'd like to exchange ideas or collaborate on any project! </p>
 <!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://)
+[![GitHub Page](https://img.shields.io/badge/jessiferreira.github.io-67136f?style=for-the-badge)](https://)
 -->
 
 ### Connect with me
@@ -20,8 +20,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8700A2&color:FFF)](https://www.instagram.com/jessi_ferreira)
 
 ### GitHub Stats
-
-<!-- ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) -->
 [![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=350&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=8700A2&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)
 
 ### My Skills
@@ -29,11 +27,11 @@
 <p align="left">
 
 ![Java](https://img.shields.io/badge/java-%23FF79C6.svg?style=for-the-badge&logo=openjdk&logoColor=8700A2&color=000000)
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij%20idea&logoColor=8700A2&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij%20idea&logoColor=8700A2&color:FFF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=8700A2&color:FFF)
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=8700A2&color:FFF)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=8700A2&color:FFF) <br>
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=8700A2&color:FFF)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=8700A2&color:FFF) <br>
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=8700A2&color:FFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=8700A2&color:FFF)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=8700A2&color:FFF)
 
