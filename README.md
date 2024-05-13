@@ -13,15 +13,6 @@
 [![GitHub Page](https://img.shields.io/badge/jessiferreira.github.io-67136f?style=for-the-badge)](https://)
 -->
 
-### Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8700A2&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
-[![E-mail](https://img.shields.io/badge/-E--mail-000?style=for-the-badge&logo=mail.ru&logoColor=8700A2&color:FFF)](mailto:contatojessiferreira@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8700A2&color:FFF)](https://www.instagram.com/jessi_ferreira)
-
-### GitHub Stats
-![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=370&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=171615&count_private=true)
-
 ### My Skills
 
 <p align="left">
@@ -34,6 +25,15 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=8700A2&color:FFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=8700A2&color:FFF)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=8700A2&color:FFF)
+
+### GitHub Stats
+![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=370&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=171615&count_private=true)
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8700A2&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
+[![E-mail](https://img.shields.io/badge/-E--mail-000?style=for-the-badge&logo=mail.ru&logoColor=8700A2&color:FFF)](mailto:contatojessiferreira@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8700A2&color:FFF)](https://www.instagram.com/jessi_ferreira)
 
 
 
