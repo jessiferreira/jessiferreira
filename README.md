@@ -2,7 +2,7 @@
 
 
 <h1>
-     <img align="center" alt="Logo Jéssica Ferreira" width="36px" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/8903f642-7175-4f05-b22e-5c7d5957f3a2"></a>
+     <img align="center" alt="Logo" width="36px" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/8903f642-7175-4f05-b22e-5c7d5957f3a2"></a>
     <span>Jéssica Ferreira</span>
 </h1>
 
