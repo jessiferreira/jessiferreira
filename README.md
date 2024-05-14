@@ -1,8 +1,11 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/f581193c-2922-4a72-b7fd-6a09b3933bf8"> 
+<img align="right" alt="Developer Sticker" height="380" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/0bc1de21-2c80-4bf4-a576-b9ccee4bf761"> 
+
 
 <h1>
+     <img align="center" alt="Logo Jéssica Ferreira" width="36px" src="https://github.com/jessiferreira/jessiferreira/assets/121064773/8903f642-7175-4f05-b22e-5c7d5957f3a2"></a>
     <span>Jéssica Ferreira</span>
 </h1>
+
 
 <p align="justify">Hello!👋🏻 <br>
   I am a Java Back-end developer currently studying Systems Analysis and Development. I am passionate about technology and constantly striving to improve my skills to grow as a professional in the field.
@@ -17,23 +20,23 @@
 
 <p align="left">
 
-![Java](https://img.shields.io/badge/java-%23FF79C6.svg?style=for-the-badge&logo=openjdk&logoColor=8700A2&color=000000)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij%20idea&logoColor=8700A2&color:FFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=8700A2&color:FFF)
-![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=8700A2&color:FFF) <br>
-![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=8700A2&color:FFF)
-![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=8700A2&color:FFF)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=8700A2&color:FFF)
-![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=8700A2&color:FFF)
+![Java](https://img.shields.io/badge/java-%23FF79C6.svg?style=for-the-badge&logo=openjdk&logoColor=DD09A4&color=000000)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=for-the-badge&logo=intellij%20idea&logoColor=DD09A4&color:FFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=DD09A4&color:FFF)
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=DD09A4&color:FFF) <br>
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=DD09A4&color:FFF)
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=DD09A4&color:FFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=DD09A4&color:FFF)
+![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=DD09A4&color:FFF)
 
 ### GitHub Stats
-![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=370&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=8700A2&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=171615&count_private=true)
+![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=370&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=DD09A4&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=171615&count_private=true)
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8700A2&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
-[![E-mail](https://img.shields.io/badge/-E--mail-000?style=for-the-badge&logo=mail.ru&logoColor=8700A2&color:FFF)](mailto:contatojessiferreira@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=8700A2&color:FFF)](https://www.instagram.com/jessi_ferreira)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=DD09A4&color:FFF)](https://www.linkedin.com/in/jessyferreira/)
+[![E-mail](https://img.shields.io/badge/-E--mail-000?style=for-the-badge&logo=mail.ru&logoColor=DD09A4&color:FFF)](mailto:contatojessiferreira@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=DD09A4&color:FFF)](https://www.instagram.com/jessi_ferreira)
 
 
 
