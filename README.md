@@ -26,6 +26,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=DD09A4&color:FFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=DD09A4&color:FFF)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=DD09A4&color:FFF)
+<br>
+![Obsidian](https://img.shields.io/badge/-Obsidian-000?style=for-the-badge&logo=obsidian&logoColor=DD09A4&color:FFF)
+
 
 ### GitHub Stats
 ![Most Used Languages](https://github-readme-stats-jessicas-projects-d9accd72.vercel.app/api/top-langs/?username=jessiferreira&line_height=10&card_width=370&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=DD09A4&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=171615&count_private=true)
