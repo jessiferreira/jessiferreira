@@ -23,6 +23,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&logoColor=DD09A4&color:FFF) <br>
 ![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=DD09A4&color:FFF)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=DD09A4&color:FFF)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=DD09A4&color:FFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=DD09A4&color:FFF)
 ![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=DD09A4&color:FFF)
 
